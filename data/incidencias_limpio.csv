@@ -1,0 +1,84 @@
+id_incidencia,id_envio,fecha,tipo_incidencia,descripcion,costo_impacto
+1.0,245,2023-01-01,Desvío de ruta,Incidencia menor,131322.0
+2.0,560,2023-01-04,Daño en carga,Retraso significativo,1971994.0
+3.0,301,2023-01-08,Robo,Incidencia menor,67912.0
+7.0,725,2023-01-23,Falla mecánica,Incidencia menor,0.0
+13.0,942,2023-02-14,Retraso,Sin mayor impacto,563575.0
+17.0,121,2023-02-28,Retraso,Pérdida parcial,937012.0
+18.0,88,2023-03-04,Daño en carga,Requirió asistencia,1411124.0
+23.0,702,2023-03-22,Accidente,Sin descripcion,1137813.0
+25.0,593,2023-03-30,Robo,Incidencia menor,1411852.0
+29.0,708,2023-04-13,Accidente,Pérdida parcial,1274515.0
+30.0,203,2023-04-17,Desvío de ruta,Sin mayor impacto,1321705.0
+32.0,463,2023-04-24,Desvío de ruta,Incidencia menor,285783.0
+33.0,670,2023-04-28,Accidente,Pérdida parcial,317485.0
+35.0,194,2023-05-05,Desvío de ruta,Sin mayor impacto,1746382.0
+37.0,930,2023-05-13,Daño en carga,Pérdida parcial,343193.0
+38.0,791,2023-05-16,Retraso,Sin mayor impacto,1514422.0
+39.0,317,2023-05-20,Desvío de ruta,Retraso significativo,1665817.0
+43.0,481,2023-06-04,Robo,Pérdida parcial,35753.0
+52.0,397,2023-07-07,Desvío de ruta,Pérdida parcial,345014.0
+56.0,107,2023-07-21,Desvío de ruta,Requirió asistencia,1347536.0
+57.0,978,2023-07-25,Desvío de ruta,Incidencia menor,1633713.0
+58.0,98,2023-07-29,Desvío de ruta,Sin mayor impacto,1864874.0
+59.0,880,2023-08-01,Daño en carga,Incidencia menor,1753212.0
+63.0,257,2023-08-16,Accidente,Sin mayor impacto,519451.0
+65.0,242,2023-08-23,Falla mecánica,Requirió asistencia,633799.0
+71.0,385,2023-09-14,Desvío de ruta,Pérdida parcial,1939296.0
+74.0,506,2023-09-25,Retraso,Sin mayor impacto,843025.0
+76.0,783,2023-10-03,Daño en carga,Sin mayor impacto,981215.0
+81.0,489,2023-10-21,Accidente,Sin mayor impacto,1529978.0
+82.0,226,2023-10-25,Robo,Requirió asistencia,1449371.0
+83.0,657,2023-10-28,Falla mecánica,Incidencia menor,1132210.0
+85.0,760,2023-11-05,Desvío de ruta,Retraso significativo,0.0
+90.0,744,2023-11-23,Falla mecánica,Incidencia menor,918739.0
+93.0,837,2023-12-04,Desconocido,Requirió asistencia,52493.0
+95.0,135,2023-12-11,Falla mecánica,Incidencia menor,1917693.0
+97.0,4,2023-12-19,Desvío de ruta,Retraso significativo,1747372.0
+99.0,746,2023-12-26,Falla mecánica,Pérdida parcial,242605.0
+104.0,363,2024-01-13,Retraso,Incidencia menor,1404488.0
+106.0,717,2024-01-21,Accidente,Sin mayor impacto,885806.0
+108.0,200,2024-01-28,Daño en carga,Incidencia menor,1046022.0
+111.0,435,2024-02-08,Desvío de ruta,Pérdida parcial,22506.0
+112.0,273,2024-02-12,Accidente,Retraso significativo,8441.0
+114.0,803,2024-02-19,Desvío de ruta,Retraso significativo,207605.0
+115.0,483,2024-02-23,Desvío de ruta,Incidencia menor,1411269.0
+117.0,234,2024-03-01,Robo,Incidencia menor,1789955.0
+118.0,408,2024-03-05,Daño en carga,Sin mayor impacto,1857570.0
+119.0,694,2024-03-08,Accidente,Sin mayor impacto,1951907.0
+120.0,146,2024-03-12,Daño en carga,Incidencia menor,1878467.0
+125.0,545,2024-03-30,Retraso,Incidencia menor,1777421.0
+132.0,853,2024-04-25,Accidente,Retraso significativo,853584.0
+135.0,778,2024-05-06,Falla mecánica,Requirió asistencia,1711977.0
+138.0,665,2024-05-17,Falla mecánica,Incidencia menor,1635169.0
+140.0,569,2024-05-24,Desvío de ruta,Retraso significativo,599211.0
+144.0,527,2024-06-08,Daño en carga,Incidencia menor,866073.0
+145.0,412,2024-06-12,Retraso,Sin descripcion,1657504.0
+146.0,269,2024-06-15,Daño en carga,Sin descripcion,949475.0
+150.0,654,2024-06-30,Desconocido,Pérdida parcial,1898019.0
+151.0,626,2024-07-04,Desvío de ruta,Requirió asistencia,126258.0
+152.0,450,2024-07-07,Robo,Retraso significativo,1797068.0
+153.0,802,2024-07-11,Robo,Incidencia menor,612365.0
+154.0,995,2024-07-15,Falla mecánica,Pérdida parcial,1002795.0
+158.0,822,2024-07-29,Daño en carga,Retraso significativo,389904.0
+159.0,255,2024-08-02,Falla mecánica,Sin descripcion,411754.0
+160.0,463,2024-08-06,Retraso,Sin mayor impacto,378178.0
+165.0,799,2024-08-24,Robo,Sin descripcion,1274906.0
+166.0,334,2024-08-28,Retraso,Retraso significativo,1380234.0
+168.0,565,2024-09-04,Desvío de ruta,Requirió asistencia,901671.0
+169.0,368,2024-09-08,Accidente,Retraso significativo,1380231.0
+173.0,892,2024-09-22,Accidente,Sin mayor impacto,494234.0
+174.0,456,2024-09-26,Retraso,Incidencia menor,1537225.0
+175.0,688,2024-09-30,Desvío de ruta,Incidencia menor,30222.0
+176.0,67,2024-10-03,Falla mecánica,Retraso significativo,438407.0
+178.0,912,2024-10-11,Daño en carga,Sin mayor impacto,1561553.0
+182.0,400,2024-10-25,Robo,Requirió asistencia,1004959.0
+183.0,287,2024-10-29,Retraso,Pérdida parcial,1411148.0
+186.0,284,2024-11-09,Accidente,Requirió asistencia,172800.0
+196.0,9,2024-12-16,Retraso,Retraso significativo,1309310.0
+197.0,420,2024-12-19,Desvío de ruta,Incidencia menor,878873.0
+199.0,656,2024-12-27,Daño en carga,Sin mayor impacto,1439941.0
+200.0,348,2024-12-31,Accidente,Requirió asistencia,257421.0
+120.0,146,2024-03-12,Daño en carga,Incidencia menor,1878467.0
+106.0,717,2024-01-21,Accidente,Sin mayor impacto,885806.0
+18.0,88,2023-03-04,Daño en carga,Requirió asistencia,1411124.0
