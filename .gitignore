@@ -1,0 +1,22 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Anaconda
+anaconda_projects/
+
+# Cache de Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos grandes de modelos
+*.joblib
+*.pkl
+*.h5
+models/trained_models/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
