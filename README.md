@@ -130,7 +130,3 @@ O paso a paso con notebooks:
 - **Serialización** — `joblib`
 
 ---
-
-## Autor
-
-[Tu Nombre] — Proyecto académico para Programación para la Ciencia de Datos, DUOC UC 2026.
